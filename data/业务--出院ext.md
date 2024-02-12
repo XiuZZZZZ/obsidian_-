@@ -1,0 +1,3 @@
+- 出院--ext
+	- 业务点
+		- csp：dhc.nurse.discharge.csp

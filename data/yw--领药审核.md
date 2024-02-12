@@ -1,0 +1,7 @@
+- 领药审核
+	- 业务点
+		- csp：nur.hisui.drugAudit.csp
+		- 左侧病人后台方法：Nur.CommonInterface.Ward  getWardPatients
+		- 
+	- 需求
+		- [[勾选母亲不勾选儿子]]

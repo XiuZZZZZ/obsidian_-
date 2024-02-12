@@ -1,0 +1,11 @@
+- 产程图-c艹
+	- 业务点
+		- 获取数据：
+			- DHCCurve.CurveWebService GetPatAllGraphData
+			- web.DHCCurveOperation GetPatAllGraphData
+			- web.DHCCurveOperation  GetPatInfo
+		- 保存数据：
+		- 点击病人逻辑：`产程图-8.3.0p\Solution\frmMain.cs`  TreeViewPatList_AfterSelect
+		- 产程图按钮入口：产程图-8.3.0p\PregGraph\DrawGraph.cs  PD_PrintPage
+		- 产程图颜色：宫口是红色，先露高低的蓝色
+	- 需求

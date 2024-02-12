@@ -1,0 +1,1 @@
+​webIp="http://"+window.status.split("服务器IP:")[1]​​

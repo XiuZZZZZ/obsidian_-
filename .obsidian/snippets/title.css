@@ -1,0 +1,35 @@
+.HyperMD-header-1,h1 {
+  background: #ff0084;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+
+.HyperMD-header-2,h2 {
+  background: #FF8C00;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.HyperMD-header-3,h3 {
+  background: #CCCC00;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.HyperMD-header-4,h4 {
+  background: linear-gradient(45deg, #ff0084, #3300ff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.HyperMD-header-5,h5 {
+  background: linear-gradient(45deg, #ff0084, #3300ff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+/*
+.cm-list-1 {
+  white-space: nowrap; /* 禁止换行 */
+  overflow-x: auto; /* 添加横向滚动条 */
+}*/

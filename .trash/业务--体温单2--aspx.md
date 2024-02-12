@@ -1,0 +1,10 @@
+- 体温单-aspx
+	- 业务点
+		- csp：nur.hisui.temperature.csp
+		- 预览获取数据后台方法：Nur.NIS.Service.Chart.DAO.Temperature  iteratorEvent
+		- 获取文字内容：Nur.NIS.Service.Chart.DAO.Temperature  iteratorCycleVal
+		- 打印的时候插入事件方法：Nur.NIS.Service.Chart.DAO.Event  insertEvent
+	- 需求
+		- [[体温单--svg，事件上有生命体征往后平移]]
+		- [[体温单--svg，预览太慢了]]
+		- [[体温单--svg，自动带入入观和出观]]

@@ -1,0 +1,8 @@
+- 血糖-hisui
+	- 业务点
+		- 获得数据
+		- 展示数据
+		- 保存数据
+		- 打印
+			- 获得模板：DHCNURMoudPrnXT8RANDOM
+			- 绑定数据：Nur.NIS.Service.VitalSign.BloodGlucose  QuerySugarInfo

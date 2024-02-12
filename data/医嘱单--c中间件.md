@@ -1,0 +1,9 @@
+- 医嘱单--中间件
+	- 业务
+		- 中间件csp：nur.chrome.ordersheet.csp
+		- 临时归档csp：DHCNurseIPCommOrdPrintJZLS.FS.csp  
+		- 长期归档csp：DHCNurseIPCommOrdPrintJZCQ.FS.csp
+	- 需求
+		- [[成组中如果有皮试，则每一个医嘱都获取皮试双签名]]
+	- 常用方法
+		- 

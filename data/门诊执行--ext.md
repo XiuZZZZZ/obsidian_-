@@ -1,0 +1,10 @@
+- 业务点
+    - 门诊查询
+        - web.DHCNurCom GetOrderItem
+    - 执行方法
+        - web.DHCNurCom.UpdateOrdGroup
+    - 老板门诊检验打印方法
+        - scripts/DHCNurOPExecPrint.js
+        - PrintClick
+        - scripts/nurse/DHCNUR/DHC.NURSE.OP.PRINTED.JS
+        - PrintBar

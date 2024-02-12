@@ -1,0 +1,1 @@
+s oeordID=$o(^OEORD(0,"Adm",EpisodeId,0))

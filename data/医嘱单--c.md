@@ -1,0 +1,11 @@
+- 医嘱单--c艹
+	- 业务点
+		- 获取病人列表：
+		- 获取病人信息：Nur.DoctorOrderSheet  getPatInfo
+		- 历史记录：Nur.DoctorOrderPrintRecord  Nur.DoctorOrderPrintRecordSub
+		- 双签获取图片方法：##class(web.DHCNurSignVerify).GetUserSignImage("3590")  
+	- 需求
+	- 常用方法
+	- 其他
+
+		- 1代表Long，2代表Temp

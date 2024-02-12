@@ -1,0 +1,18 @@
+{
+  "showLineNumber": true,
+  "readableLineLength": false,
+  "promptDelete": true,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": ".//asset",
+  "livePreview": true,
+  "focusNewTab": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "showUnsupportedFiles": false,
+  "trashOption": "local"
+}

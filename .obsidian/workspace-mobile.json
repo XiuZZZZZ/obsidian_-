@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "11159c7237edce74",
+    "type": "split",
+    "children": [
+      {
+        "id": "85e49ad54a30951a",
+        "type": "split",
+        "children": [
+          {
+            "id": "ae4cf5736fd44c16",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4eca5f40e1cba839",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "⭕1 参考文档.md",
+                    "mode": "preview",
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "023bc6d2bfbe3bee",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "data/东华官网.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "168c751768197d57",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4ba3c32cc46cca20",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "⭕1 参考文档.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "1389335ccf55b24d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "⭕1 参考文档.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2d2ee80aaf3198b6",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a205917da9f3d389",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "721aa8ad1997167d",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "DHCD",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "a20ebc5a27c379a4",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "86699997813a14ed",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "fe3face3cbddc7e0",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "796df91cf47f9f56",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "data/东华官网.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": true,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "23d073745eb6e596",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "data/东华官网.md",
+            "linksCollapsed": true,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "fdf6a9102ce475f7",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "data/东华官网.md"
+          }
+        }
+      },
+      {
+        "id": "291b58a15891e756",
+        "type": "leaf",
+        "state": {
+          "type": "quiet-outline",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 2
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "dbfolder:创建一个新数据库表": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "023bc6d2bfbe3bee",
+  "lastOpenFiles": [
+    "⭕2 业务.md",
+    "⭕1 参考文档.md",
+    "待定/⭕5 每日需求.md",
+    "✍护理病历，保存的时候，满足条件则推送数据.canvas",
+    "data/去重.md",
+    "data/获得query列.md",
+    "data/json遍历.md",
+    "data/创建json和array.md",
+    "✍处理医嘱，处理医嘱如果满足条件需要确认才能执行.canvas",
+    "⭕每日需求。。.md",
+    "✍体温单svg，死亡事件不在指定位置.canvas",
+    "⭕文章.md",
+    "data/✍线程的使用.canvas",
+    "其他，增加列数据显示.md",
+    "data/✍线程的使用.md",
+    "其他，增加列数据显示.canvas",
+    "基本单元--每日需求/交班本，选择打印.md",
+    "基本单元--每日需求/交班本，保存pdf.md",
+    "基本单元--每日需求/需关注，控制麻醉未计费.md",
+    "基本单元--每日需求/交班本，维护界面显示顺序.md",
+    "基本单元--每日需求/护理病历，患者转科后原科室才能修改.md",
+    "基本单元--每日需求/体温单，打开报错.md",
+    "基本单元--每日需求/护理病历，增加ca签名.md",
+    "基本单元--每日需求/床位图，婴儿分娩未在床下.md",
+    "基本单元--每日需求/体温单，预览界面可以select.md",
+    "基本单元--每日需求/护士执行打印，打印报错.md",
+    "基本单元--每日需求/pda，扫码时，多出来一条数据.md",
+    "基本单元--每日需求/交班本，切换页签后点击病人失败.md",
+    "基本单元--每日需求/啊啊啊.md",
+    "基本单元--每日需求/测试2.md",
+    "基本单元--每日需求/体温单，医生查房用.md",
+    "基本单元--每日需求",
+    "data/✍动态链接库.canvas"
+  ]
+}

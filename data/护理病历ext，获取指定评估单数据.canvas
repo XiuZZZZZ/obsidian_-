@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"type":"file","file":"asset/L1]LHB%KU[A{VI~9LFYZF2I.png","id":"3e98d950d42d9922","x":-440,"y":-320,"width":680,"height":325},
+		{"type":"text","text":"输液人次\n跌倒--每日新入跌倒高风险总人数\n跌倒--每日跌倒高风险总人数\n跌倒--住院患者医院内跌倒/坠床所致髋部骨折发生列数\n压力--2期以上院内压力性损伤发生例\n压力--每日新入跌倒高风险总人数\n压力--每日跌倒高风险总人数\nVTE--出院患者中，vte为高风险\nVTE--采取VTE恰当预防措施的出院患者例数\nVTE--VTE风险评估为高危/中危的出院患者人次\n营养--营养评估的住院患者例数\n输注反应发生例数\n输血反应发生例数\n ","id":"6264f5ec7215ee73","x":-440,"y":40,"width":440,"height":367},
+		{"type":"text","text":"取值报表","id":"a3bb6a9a4e04579a","x":-820,"y":-217,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"f47f241594f1ffcf","fromNode":"a3bb6a9a4e04579a","fromSide":"right","toNode":"3e98d950d42d9922","toSide":"left"},
+		{"id":"f402092d8a419f2d","fromNode":"a3bb6a9a4e04579a","fromSide":"right","toNode":"6264f5ec7215ee73","toSide":"left"}
+	]
+}

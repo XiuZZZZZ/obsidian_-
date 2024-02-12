@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"type":"text","text":"- 什么是dll\n\t- DLL：Dynamic Link Library 动态链接库\n\t- 操作系统：Windows\n\t- 主要用途：提供接口实现函数\n\n\n- 工作原理\n\n![[Pasted image 20230827173509.png]]\n\n\n- 加载时机\n\n启动后马上加载，会有浪费\n\n先启动程序，不同的程序分支，调用对应的链接库，还可以释放\n\n![[Pasted image 20230827173811.png]]\n\n\n- 静态链接库和动态链接库\n\t- 静态：编译的时候就需要\n\t- 动态：运行的时候才需要\n\n\n- 为什么使用dll\n\n与第三方对接\n\n如果程序中会使用到部分第三方的程序\n只需要定义调用第三方程序的接口\n不同的第三方只需要提供实现相同的接口的dll就行\n\n\n简化管理\n\n![[Pasted image 20230827174647.png]]\n\n便于本地化，多平台\n\n![[Pasted image 20230827175012.png]]\n\n\n特殊应用\n\n![[Pasted image 20230827175049.png]]\n\n\n- 有限范围的通用性\n\n![[Pasted image 20230827175113.png]]\n\n\n- 小工具 dumpbin\n\n查看dll的接口和函数\n\n![[Pasted image 20230827200430.png]]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n","id":"78f6bf24d7d95e25","x":280,"y":100,"width":700,"height":1160},
+		{"type":"file","file":"asset/Pasted image 20230827172815.png","id":"fa8b0d173b2516a6","x":360,"y":-320,"width":400,"height":254},
+		{"type":"file","file":"asset/Pasted image 20230827172438.png","id":"322f890396bb7ff2","x":-60,"y":-320,"width":400,"height":246},
+		{"type":"file","file":"asset/Pasted image 20230827172454.png","id":"6badd0da05bc83fb","x":-480,"y":-320,"width":400,"height":309},
+		{"type":"file","file":"asset/Pasted image 20230827173115.png","id":"d7b442dd4de46757","x":780,"y":-320,"width":400,"height":76}
+	],
+	"edges":[]
+}

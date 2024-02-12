@@ -1,0 +1,1 @@
+$g(%session.Data("LOGON.CTLOCID"))

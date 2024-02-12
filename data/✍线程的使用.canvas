@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"type":"text","text":"一共有6种调用","id":"2c13efa771c28e4e","x":-380,"y":-27,"width":250,"height":60},
+		{"type":"text","text":"## 总结","id":"e7163e0699be4979","x":-760,"y":-110,"width":250,"height":60},
+		{"type":"text","text":"什么是线程池","id":"b570683f5aab69b0","x":-380,"y":-435,"width":250,"height":60},
+		{"type":"text","text":"根据业务来选择","id":"7066c3522e996bea","x":-380,"y":159,"width":250,"height":60},
+		{"type":"text","text":"开关线程 十分消耗资源，如果有很多线程（100）需要使用线程池\n\n- 创建一堆线程，放在池子里。\n- 归还线程，不释放。\n- 其他需要线程的，给他就行。\n\n![[Pasted image 20230827160524.png]]\n","id":"ad55aed18c23157d","x":260,"y":-915,"width":726,"height":555,"color":"2"},
+		{"type":"text","text":"## 异步调用\n![[Pasted image 20230827154338.png]]\n","id":"a8236ce5d4bf0ebb","x":260,"y":720,"width":563,"height":400,"color":"1"},
+		{"type":"text","text":"## 周期调用\n![[Pasted image 20230827155123.png]]\n","id":"dba055276010f8c6","x":260,"y":1160,"width":540,"height":400,"color":"1"},
+		{"type":"text","text":"## 单个线程\n\n![[Pasted image 20230827155818.png]]","id":"846bfd77f2f47d0d","x":260,"y":-307,"width":480,"height":515,"color":"1"},
+		{"type":"text","text":"## 线程池调用\n\n![[Pasted image 20230827160013.png]]","id":"7c580c0719136246","x":260,"y":248,"width":563,"height":432,"color":"1"},
+		{"type":"text","text":"## 内核调用\n![[Pasted image 20230827155359.png]]","id":"2d2a6c3441ddc168","x":260,"y":1600,"width":563,"height":380,"color":"1"},
+		{"type":"text","text":"## IO调用\n\n![[Pasted image 20230827155504.png]]","id":"bdabf9bef265e3e2","x":260,"y":2040,"width":568,"height":372,"color":"1"}
+	],
+	"edges":[
+		{"id":"77685457647a6f75","fromNode":"e7163e0699be4979","fromSide":"right","toNode":"b570683f5aab69b0","toSide":"left"},
+		{"id":"33f13851b600a95e","fromNode":"e7163e0699be4979","fromSide":"right","toNode":"2c13efa771c28e4e","toSide":"left"},
+		{"id":"c6bbd40c7e5e73c4","fromNode":"2c13efa771c28e4e","fromSide":"right","toNode":"846bfd77f2f47d0d","toSide":"left"},
+		{"id":"633ee118113aa05f","fromNode":"2c13efa771c28e4e","fromSide":"right","toNode":"7c580c0719136246","toSide":"left"},
+		{"id":"27d63d7138817077","fromNode":"2c13efa771c28e4e","fromSide":"right","toNode":"a8236ce5d4bf0ebb","toSide":"left"},
+		{"id":"f6ffcce6dd15837e","fromNode":"2c13efa771c28e4e","fromSide":"right","toNode":"dba055276010f8c6","toSide":"left"},
+		{"id":"b27b115f27ce32af","fromNode":"2c13efa771c28e4e","fromSide":"right","toNode":"2d2a6c3441ddc168","toSide":"left"},
+		{"id":"c4600b1b55c950ee","fromNode":"2c13efa771c28e4e","fromSide":"right","toNode":"bdabf9bef265e3e2","toSide":"left"},
+		{"id":"20226a882495fc54","fromNode":"e7163e0699be4979","fromSide":"right","toNode":"7066c3522e996bea","toSide":"left"},
+		{"id":"10d6ce55076f1268","fromNode":"b570683f5aab69b0","fromSide":"right","toNode":"ad55aed18c23157d","toSide":"left"}
+	]
+}

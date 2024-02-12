@@ -1,0 +1,1 @@
+s itemId = $O(^MRC("OBITM",0,"Code",itemcode,""))

@@ -1,0 +1,3 @@
+- 医技执行icsp：nur.hisui.orderexcute.csp
+- 获取数据：Nur.HISUI.OrderExcute  QueryOrder
+- 执行方法：Nur.HISUI.OrderExcute  UpdateOrd

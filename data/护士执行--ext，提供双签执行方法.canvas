@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"a5ee6aa6a1038456","type":"text","text":"![[Pasted image 20230906102114.png]]","x":-422,"y":-201,"width":882,"height":321},
+		{"id":"d6e019d0cbdb3cdc","type":"text","text":"```\n\n【执行方法】\n##class(web.DHCLCNUREXCUTE).UpdateOrdGroup(\"\",\"7754034||197||2\",\"F\",\"3130\",\"274\",\"\",\"6/9/2023\",\"\",\"\",\"true\")\n入参说明：setSkinTest, oeoreId, execStatusCode, userId, userDeptId, queryTypeCode, execDate, execTime, changeReasonDr, nonpda\nsetSkinTest\t\t皮试则传Y，否则传：\"\"\noeoreId\t\t\t医嘱id：7754034||197||2\nexecStatusCode\t状态：F是执行，C是撤销\nuserId\t\t\t用户id：3130\nuserDeptId\t\t登录科室id：274\nqueryTypeCode\t执行页签：为空即可\nexecDate\t\t执行日期\nexecTime\t\t执行时间\nchangeReasonDr\t为空即可\nnonpda\t\t\t为空即可\n\n【保存方法】返回0代表成功\n##class(web.DHCLCNUREXCUTE).excuteAudit(\"7754034||197||2\",\"3130\",\"3425\",\"274\",\"UnExec\",\"6/9/2023\",\"\")\n入参说明：oeoreId, userId, userId2, ctlocId, queryTypeCode, execDate, execTime\noeoreId\t\t\t医嘱id\nuserId\t\t\t用户id\nuserId2\t\t\t用户id\nctlocId\t\t\t登录科室id：274\nqueryTypeCode\t执行页签：为空即可\nexecDate\t\t执行日期\nexecTime\t\t执行时间\n\n##class(web.DHCLCNUREXCUTE)OrdNote(oeorid, not, otherInfo)  \n参数1：执行记录id  \n参数2：\"\"  \n参数3：残余液量#残余液处置#空安剖数  \n示例：##class(web.DHCLCNUREXCUTE)OrdNote(\"7754034||197||1\",\"\",\"33#残余液冲入水槽#777\")\n返回值0，代表成功\n\n```","x":-394,"y":166,"width":1074,"height":894}
+	],
+	"edges":[]
+}

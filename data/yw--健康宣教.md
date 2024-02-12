@@ -1,0 +1,8 @@
+- 健康宣教
+	- 业务点
+		- csp：nur.hisui.educationexecute.csp
+		- 初始化：Nur.NIS.Service.VitalSign.Result  GetPrintParamEDU
+		- 打印：js/printEducationRecord
+		- 打印获取数据：Nur.NIS.Service.Education2.EmrPrint  QueryEducationDetailListNew2
+	- 需求
+	- 常用方法

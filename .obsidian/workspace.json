@@ -1,0 +1,275 @@
+{
+  "main": {
+    "id": "8a9a69d01d2d72cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b190d7113f2d4a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5b9c438a0099048",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "⭕1 项目.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "31ccf58cb64e18ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "⭕2 需求.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a85e7eb99e104160",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "⭕3 业务.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "4fc7b6d0ec2227e7",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "⭕4 数据.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "cb3cc741132dd008",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "⭕5 技术.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d0283e198982694d",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3b388e750eda5a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13bbb9539dd4b60f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "45f4406c8ebc45c1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "⭕5 技术.md"
+              }
+            }
+          },
+          {
+            "id": "e1ed3e5ea24dc904",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "免密",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "byCreatedTime"
+              }
+            }
+          },
+          {
+            "id": "6d4e0cf318ba21c7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 281.5
+  },
+  "right": {
+    "id": "cd3a7e915ab9261c",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6aa90a57233edcd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5928b40340f3630",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "⭕5 技术.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4b22e13c824e39ff",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "⭕5 技术.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "89ba97644d33b3ca",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "50830ba19aacc162",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 359.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "cb3cc741132dd008",
+  "lastOpenFiles": [
+    "初始化init.md",
+    "⭕5 技术.md",
+    "设置用户和邮箱.md",
+    "登录github.md",
+    "⭕3 业务.md",
+    "data/护理病历--2.2，ca图片，大小显示有问题.md",
+    "data/护理病历，提供免密登录的csp.md",
+    "data/护理病历，免密登录的窗口.md",
+    "图片大小.md",
+    "⭕4 数据.md",
+    "⭕2 需求.md",
+    "asset/Pasted image 20240211172639.png",
+    "asset/Pasted image 20240211172721.png",
+    "asset/Pasted image 20240211172701.png",
+    "asset/Pasted image 20240211172619.png",
+    "⭕1 项目.md",
+    "data/项目--云南第二.md",
+    "data/项目--重庆人民.md",
+    "床位图，指定病区的入出时间.md",
+    "data/四种请求.md",
+    "禁用断点.md",
+    "data/2024年出差.md",
+    "data/asset/2024报销.zip",
+    "data/asset/住宿说明模板.docx",
+    "第一次使用.md",
+    "asset/tableExportTestUnit.zip",
+    "data/ie11，一个datagrid数据导出成excel.md",
+    "data/2023年终总结.md",
+    "asset/CA签名调用示例 1.pdf",
+    "asset/CA签名调用示例.pdf",
+    "data/yw-ca签名-护士执行-8.3.md",
+    "data/web.DHCNurCASignVerify.md",
+    "data/ca签名表结构.md",
+    "asset/云打印C-Lodop技术手册6.5.7.1（20221115）.doc",
+    "a4纸张，4个单元打印.md",
+    "asset/testLodop.zip",
+    "asset/Pasted image 20240204085434.png",
+    "data/lodop基础打印说明.md",
+    "asset/Lodop技术手册6.2.2.6.doc",
+    "asset/XKZFKIUY%0SAQB_V9MTA`NI.png",
+    "asset/JQZHHBAJ0E3)`5ZWBQ[RXWJ.png",
+    "asset/L9O~91)82YHXNVA$OHUSHZ5.png",
+    "asset/V15Y}9L)$P_`1_O)_AYY[9I.png",
+    "asset/Pasted image 20240201094241.png",
+    "data/护理病历--2.2，取值，计数.canvas",
+    "data/asset/2024-年终总结-朱晓航.doc",
+    "asset/~$流程20110712-20231030212425-ilfd0ld 1.doc",
+    "data/交接按钮操作了什么.canvas",
+    "data/交班本--hisui，班次全部显示.canvas",
+    "data/✍动态链接库.canvas",
+    "data/✍线程的使用.canvas",
+    "data/护理病历，统计报表.canvas",
+    "data/体温单，患者事件，转儿科，增加后不能在体温单预览中显示.canvas",
+    "data/保存错误弹窗提示.canvas",
+    "data/增加打印的列数据.canvas",
+    "data/获得压力性损伤表单数据，query方式输出.canvas"
+  ]
+}

@@ -1,0 +1,8 @@
+- 记录采血时间
+	- 业务点
+		- csp：nur.hisui.speccollect.csp
+		- Nur.HISUI.SpecManage  updateCollDateTime
+		- 置采血时间：Nur.CommonInterface.OrderHandle  updateCollDateTime  updateSpacer
+		- 
+	- 需求
+	- 常用方法

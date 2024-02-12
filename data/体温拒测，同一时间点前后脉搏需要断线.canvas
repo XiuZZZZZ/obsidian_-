@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"680efe934bcc05fa","x":-370,"y":-233,"width":250,"height":60,"type":"text","text":"找到获取数据方法"},
+		{"id":"c3c20efc8822596f","x":-370,"y":-120,"width":250,"height":60,"type":"text","text":"修改"},
+		{"id":"c6fc2e8e30314c6a","x":-28,"y":-109,"width":628,"height":409,"type":"text","text":"- 打开方法  web.DHCThreeNew  GetPatValue\n- 在最后增加下面程序  Item7是脉搏，Item1是体温\n\n```\n\t\t//循环Item1，如果Item1有需要断线的，则脉搏页需要断线\n\t\ts Item = \"Item1\"\n\t\ts mbItem = \"Item7\"\n\t\ts d=\"\"  f  s d=$O(TM(Item,d)) q:d=\"\"  d\n\t\t.s t=\"\"  f  s t=$O(TM(Item,d,t)) q:t=\"\"  d\n\t\t..s value = $p($p(TM(Item,d,t),\"^\",2),$c(129),1)\n\t\t..i value=35  d //如果Item1有需要断线的\n\t\t...s value = value_$c(129)\n\t\t...s TM(mbItem,d,t)=TM(Item,d,t)\n\t\t...s $p(TM(mbItem,d,t),\"^\",2)=value\n```"}
+	],
+	"edges":[]
+}

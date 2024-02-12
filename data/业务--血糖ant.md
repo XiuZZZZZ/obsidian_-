@@ -1,0 +1,12 @@
+- 血糖-ant
+	- 业务点
+		- 获得column：Nur.NIS.Service.VitalSign.BloodGlucose  GetTableInfoByType
+		- 获取数据：Nur.NIS.Service.VitalSign.BloodGlucose    GetNotNullTypeSuagr
+		- 保存数据：Nur.NIS.Service.VitalSign.BloodGlucose    SaveSugarInfo
+		- 打印
+			- 打印模板
+			- 打印后台方法
+	- 需求
+		- [[希望录入中文]]
+	- 常用方法
+		- [[判断是否有血糖数据]]

@@ -1,0 +1,6 @@
+```
+[  
+    "BottleLableArcimDesc\u0002脂肪乳氨基酸(17)葡萄糖(11%)注射液【5集采】 1920ml/袋 10 ml \u0004BottleLableArcimDesc\u0002氯化钠注射液N(0.9%) (0.9%)100ml:0.9g(可立袋) 100 ml ^BottleLableArcimDesc\u0002维生素C注射液 5ml:1g*5支 5 ml \u0004BottleLableArcimDesc\u0002氯化钠注射液N(0.9%) (0.9%)100ml:0.9g(可立袋) 100 ml ^BottleLableArcimDesc\u0002维生素C注射液 5ml:1g*5支 5 ml \u0004BottleLableArcimDesc\u0002葡萄糖氯化钠注射液N 100ml:5g:0.9g(可立袋) 10 ml \u0004BottleLableArcimDesc\u0002氯化钠注射液N(0.9%) (0.9%)100ml:0.9g(可立袋) 100 ml ^BottleLableArcimDesc\u0002维生素C注射液 5ml:1g*5支 150 ml ",  
+    "BottleLableArcimDesc\u0002氯化钠注射液N(0.9%) (0.9%)100ml:0.9g(可立袋) 100 ml ^BottleLableArcimDesc\u0002维生素B6注射液 2ml:0.1g*10支 0.2 g \u0004BottleLableArcimDesc\u0002氯化钠注射液N(0.9%) (0.9%)100ml:0.9g(可立袋) 100 ml ^BottleLableArcimDesc\u0002维生素B6注射液 2ml:0.1g*10支 0.2 g \u0004BottleLableArcimDesc\u0002氯化钠注射液N(0.9%) (0.9%)100ml:0.9g(可立袋) 100 ml ^BottleLableArcimDesc\u0002维生素B6注射液 2ml:0.1g*10支 0.2 g \u0004BottleLableArcimDesc\u0002葡萄糖氯化钠注射液N 250ml:12.5g:2.25g(可立袋) 250 ml "  
+]
+```

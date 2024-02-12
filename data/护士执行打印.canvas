@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"06d80e94175151a0","x":-575,"y":-176,"width":415,"height":356,"type":"text","text":"- 护士执行打印c艹\n\t- 业务\n\t\t- \n\t- 需求\n\t\t- [[护士执行打印c，条码打印，多个条码水平打印]]"},
+		{"id":"11d1b1235f2f1d65","x":-120,"y":-176,"width":653,"height":392,"type":"text","text":"\n- 护士执行打印-ant\n\t- 业务\n\t\t- js入口：sheetPrint\n\t\t- 获取打印医嘱信息：page/orderSheet/biz/getExcuteOrderInfo  Nur.NIS.Service.OrderExcute.Sheet  getExcuteOrderInfo\n\t\t- 置上打印标记：page/orderhandle/biz/setExecPrintFlag\n\t\t- 获取打印列：page/orderSheet/biz/getQueryTitle\n\t\t- 瓶签：infusionLabelPrint\n\t- 需求\n\t\t- "},
+		{"id":"f3ba68ac38b7381b","x":-120,"y":-260,"width":250,"height":60,"type":"text","text":"[[护士执行--ant-hisui-表结构]] "},
+		{"id":"5e643ea82f74ae46","x":580,"y":-176,"width":639,"height":404,"type":"text","text":"- 护士执行打印-ant-hisui\n\t- 业务\n\t\t- 打印逻辑：[[护士执行打印--ant-hisui--打印逻辑]]\n\t\t- 公共打印入口js：scripts/nurse/nis/HandleMethod/OrderExcute.js  function commonPrint\n\t\t- 置打印后台方法：Nur.NIS.Service.Base.OrderHandle  setExecPrintFlag\n\t- 需求\n"}
+	],
+	"edges":[]
+}
